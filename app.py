@@ -11,6 +11,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 from pinecone import Pinecone
 
+
 # ---------------- ENV ---------------- #
 load_dotenv(override=True)
 
