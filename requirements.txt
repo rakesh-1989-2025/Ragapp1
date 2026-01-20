@@ -6,3 +6,5 @@ langchain
 euriai 
 langchain_community
 sentence-transformers
+langchain-google-genai
+
