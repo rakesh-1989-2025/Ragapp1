@@ -21,7 +21,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📄 PDF Question Answering App")
+st.title("📄 PDF Question Answering App DF Chatbot (Gemini + Pinecone its uploaded nodejs pdf of 125 page book so it will give answer only about node js ")
 st.caption("Powered by Gemini + LangChain + Pinecone")
 
 # ---------------- INIT MODELS (CACHE) ---------------- #
