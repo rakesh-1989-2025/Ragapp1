@@ -17,7 +17,7 @@ load_dotenv(override=True)
 
 # ---------------- PAGE CONFIG ---------------- #
 st.set_page_config(
-    page_title="📄 PDF Chatbot (Gemini + Pinecone)",
+    page_title="📄 PDF Chatbot (Gemini + Pinecone its uploaded nodejs pdf of 125 page book so it will give answer only about node js )",
     layout="wide"
 )
 
